@@ -1,0 +1,1 @@
+Crate (or soon to be a crate) to return a list of all PIDs that have a lock on a file or multiple files. Currently doesn't work and is windows only. Only use it if you're looking for a reason to hate life.
